@@ -42,7 +42,7 @@ A professional <b>HTML SWING Login & Application Form GUI Application</b> with s
 <h2>✨ Features</h2>
 <ul>
   <li>Secure Login Authentication</li>
-  <li>Java Swing GUI Interface</li>
+  <li>Html GUI Interface</li>
   <li>Dynamic Application Form</li>
   <li>Submit Button Functionality</li>
   <li>Cancel / Reset Button</li>
@@ -63,7 +63,7 @@ A professional <b>HTML SWING Login & Application Form GUI Application</b> with s
     <th>Usage</th>
   </tr>
   <tr>
-    <td>☕ Java</td>
+    <td>☕ Html</td>
     <td>Core Programming</td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ A professional <b>HTML SWING Login & Application Form GUI Application</b> with s
 <h2>📂 Project Structure</h2>
 
 <pre>
-Java-Project-Application/
+Html-Project-Application/
 │
 ├── ApplicationFormWithLogin.java
 ├── README.md
@@ -186,9 +186,9 @@ Password : 1234
 
 <div align="center">
 
-<h1>DGRavanbhai</h1>
-<p>💻 Java Developer</p>
-<p>🚀 Learning Full Stack Development</p>
+<h1>DGSAM</h1>
+<p>💻 HTML PROJECT</p>
+<p>🚀 Learning Full Stack Web Development</p>
 <p>🌐 GitHub Enthusiast</p>
 
 </div>
@@ -198,7 +198,7 @@ Password : 1234
 <h2>🔗 Repository Link</h2>
 
 <p>
-<a href="https://github.com/DGRavanbhai/Java-Project-Application">
+<a href="https://github.com/Simyonsam22/HTML-PROJECT">
   GitHub Project Repository
 </a>
 </p>
@@ -219,6 +219,8 @@ Password : 1234
 <img src="https://img.shields.io/badge/Project-Beginner%20Friendly-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cyber-Beginner%20Friendly-brightgreen?style=for-the-badge" />
 </div>
+## 📞 Contact
 
+- Telegram: [@DGSAMBHAI](https://t.me/DGSAMBHAI)
 </body>
 </html>

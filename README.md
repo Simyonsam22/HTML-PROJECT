@@ -12,10 +12,10 @@
 
 <h1>🔐 HTML SWING Login & Application Form</h1>
 
-<img src="https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML-90-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/GUI-HTML%20Swing-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Project-Active-success?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/DGSAM/HTML-Project-Application?style=for-the-badge" />
 <img src="https://img.shields.io/github/forks/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
 <img src="https://img.shields.io/github/watchers/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
 <img src="https://img.shields.io/github/repo-size/DGRavanbhai/Java-Project-Application?style=for-the-badge" />

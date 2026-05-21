@@ -209,7 +209,7 @@ Password : 1234
 
 <h2>⭐ Star This Repository If You Like It ⭐</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Java+Swing+Application+Project;Secure+Login+System;Dynamic+Application+Form;Built+Using+Pure+Java;GitHub+Java+Project" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=html+Swing+Application+Project;Secure+Login+System;Dynamic+Application+Form;Built+Using+Pure+html;GitHub+html+Project" />
 
 <br><br>
 

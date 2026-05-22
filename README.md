@@ -91,7 +91,12 @@ A professional <b>HTML SWING Login & Application Form GUI Application</b> with s
 <pre>
 Html-Project-Application/
 │
-├── ApplicationFormWithLogin.html
+├── index.html
+├── login.html
+├── register.html
+├── dashboard.html
+├── style.css
+├── script.js
 ├── README.md
 </pre>
 
@@ -105,15 +110,6 @@ Password : 1234
 </pre>
 
 <hr>
-
-<h2>▶️ How To Run</h2>
-
-<h3>1️⃣ Compile Program</h3>
-<pre>html ApplicationFormWithLogin.html</pre>
-
-<h3>2️⃣ Run Program</h3>
-<pre>html ApplicationFormWithLogin</pre>
-
 <hr>
 
 <h2>🖥️ GUI Components Used</h2>

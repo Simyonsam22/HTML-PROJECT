@@ -16,10 +16,10 @@
 <img src="https://img.shields.io/badge/GUI-HTML%20Swing-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Project-Active-success?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/DGSAM/HTML-Project-Application?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
-<img src="https://img.shields.io/github/watchers/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
-<img src="https://img.shields.io/github/repo-size/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
-<img src="https://img.shields.io/github/languages/top/DGRavanbhai/Java-Project-Application?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/DGSAM/HTML-Project-Application?style=for-the-badge" />
+<img src="https://img.shields.io/github/watchers/DGSAM/HTML-Project-Application?style=for-the-badge" />
+<img src="https://img.shields.io/github/repo-size/DGSAM/HTML-Project-Application?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/DGSAM/HTML-Project-Application?style=for-the-badge" />
 
 <br><br>
 
@@ -91,7 +91,7 @@ A professional <b>HTML SWING Login & Application Form GUI Application</b> with s
 <pre>
 Html-Project-Application/
 │
-├── ApplicationFormWithLogin.java
+├── ApplicationFormWithLogin.html
 ├── README.md
 </pre>
 
@@ -109,23 +109,23 @@ Password : 1234
 <h2>▶️ How To Run</h2>
 
 <h3>1️⃣ Compile Program</h3>
-<pre>javac ApplicationFormWithLogin.java</pre>
+<pre>html ApplicationFormWithLogin.html</pre>
 
 <h3>2️⃣ Run Program</h3>
-<pre>java ApplicationFormWithLogin</pre>
+<pre>html ApplicationFormWithLogin</pre>
 
 <hr>
 
 <h2>🖥️ GUI Components Used</h2>
 
 <ul>
-  <li>JFrame</li>
-  <li>JLabel</li>
-  <li>JTextField</li>
-  <li>JPasswordField</li>
-  <li>JTextArea</li>
-  <li>JButton</li>
-  <li>JOptionPane</li>
+  <li>HTML Frame</li>
+  <li>HTML Label</li>
+  <li>HTML TextField</li>
+  <li>HTML PasswordField</li>
+  <li>HTML TextArea</li>
+  <li>HTML Button</li>
+  <li>HTML OptionPane</li>
 </ul>
 
 <hr>
